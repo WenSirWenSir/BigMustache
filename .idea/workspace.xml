@@ -14,7 +14,25 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9bd43dd-8cc6-44b8-99c1-146e269aa12b" name="Default" comment="" />
+    <list default="true" id="b9bd43dd-8cc6-44b8-99c1-146e269aa12b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/release/app-release.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/release/app-release.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_main.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_order.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_orderpage.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_orderpage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_welcome.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_welcome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/act_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/act_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/act_order.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/act_order.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_orderpage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_orderpage.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,20 +57,41 @@
       <file leaf-file-name="Act_main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="81" column="56" selection-start-line="81" selection-start-column="52" selection-end-line="81" selection-end-column="56" />
+            <state relative-caret-position="439">
+              <caret line="57" column="67" selection-start-line="57" selection-start-column="67" selection-end-line="57" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Act_welcome.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_welcome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="438">
+              <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="act_main.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/act_main.xml">
+          <provider selected="true" editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="601">
+              <caret line="593" selection-start-line="593" selection-end-line="593" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="item_orderpage.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_orderpage.xml">
           <provider editor-type-id="android-designer2">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="212" column="24" selection-start-line="212" selection-start-column="24" selection-end-line="212" selection-end-column="24" />
+            <state relative-caret-position="360">
+              <caret line="74" column="49" selection-start-line="74" selection-start-column="49" selection-end-line="74" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -60,8 +99,8 @@
       <file leaf-file-name="Act_order.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_order.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="135" column="1" selection-start-line="135" selection-start-column="1" selection-end-line="135" selection-end-column="1" />
+            <state relative-caret-position="153">
+              <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
               <folding>
                 <element signature="e#4077#4255#0" expanded="true" />
                 <element signature="e#4254#4255#0" expanded="true" />
@@ -75,18 +114,16 @@
       <file leaf-file-name="Act_orderpage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_orderpage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="39" column="46" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
+            <state relative-caret-position="584">
+              <caret line="255" selection-start-line="255" selection-end-line="255" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#7467#9029#0" expanded="true" />
-                <element signature="e#9028#9029#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="act_orderpage.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="act_orderpage.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/act_orderpage.xml">
           <provider selected="true" editor-type-id="android-designer2">
             <state />
@@ -104,8 +141,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="278" column="61" selection-start-line="278" selection-start-column="45" selection-end-line="278" selection-end-column="61" />
+            <state relative-caret-position="720">
+              <caret line="207" selection-start-line="186" selection-end-line="207" />
             </state>
           </provider>
         </entry>
@@ -134,6 +171,9 @@
     <option name="KEY_ALIAS" value="WenSir" />
     <option name="REMEMBER_PASSWORDS" value="true" />
     <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -2417,7 +2457,6 @@
         <option value="$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/LazyCatProgramUnt/Log_main.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Log_main.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_welcome.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/LazyCatProgramUnt/Tools.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_login.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/welcome.xml" />
@@ -2430,16 +2469,17 @@
         <option value="$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Page/TAGS.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_pay.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/act_payitem_b.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/item_orderpage.xml" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/act_getcode.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_getcode.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_orderpage.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/act_main.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_main.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/act_order.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_order.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/act_orderpage.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/act_order.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_main.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_welcome.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/act_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_order.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_orderpage.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/item_orderpage.xml" />
       </list>
     </option>
   </component>
@@ -2725,7 +2765,7 @@
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="right" id="Preview" order="1" />
       <window_info anchor="bottom" id="Run" order="8" weight="0.32965517" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Terminal" order="5" weight="0.32965517" />
       <window_info anchor="bottom" id="Logcat" order="4" weight="0.6441379" />
       <window_info id="Captures" order="7" weight="0.25" />
@@ -2767,7 +2807,7 @@
       <window_info anchor="bottom" id="Find" order="7" weight="0.32965517" />
       <window_info anchor="right" id="Device File Explorer" order="2" side_tool="true" />
       <window_info active="true" anchor="bottom" id="Logcat" order="4" visible="true" weight="0.6441379" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Terminal" order="5" weight="0.32965517" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info content_ui="combo" id="Project" order="4" weight="0.24959612" />
@@ -2947,13 +2987,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_welcome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_login.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
@@ -3046,20 +3079,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_orderpage.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="222" column="52" selection-start-line="222" selection-start-column="29" selection-end-line="222" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_getcode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="40" column="51" selection-start-line="40" selection-start-column="51" selection-end-line="40" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3090,20 +3116,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/act_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="212" column="24" selection-start-line="212" selection-start-column="24" selection-end-line="212" selection-end-column="24" />
+        <state relative-caret-position="439">
+          <caret line="57" column="67" selection-start-line="57" selection-start-column="67" selection-end-line="57" selection-end-column="67" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_main.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_welcome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="81" column="56" selection-start-line="81" selection-start-column="52" selection-end-line="81" selection-end-column="56" />
+        <state relative-caret-position="438">
+          <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -3112,15 +3135,25 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="278" column="61" selection-start-line="278" selection-start-column="45" selection-end-line="278" selection-end-column="61" />
+        <state relative-caret-position="720">
+          <caret line="207" selection-start-line="186" selection-end-line="207" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/act_main.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="593" selection-start-line="593" selection-end-line="593" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_order.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="135" column="1" selection-start-line="135" selection-start-column="1" selection-end-line="135" selection-end-column="1" />
+        <state relative-caret-position="153">
+          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
           <folding>
             <element signature="e#4077#4255#0" expanded="true" />
             <element signature="e#4254#4255#0" expanded="true" />
@@ -3132,12 +3165,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/shlm/canshu/com/canshu/Local_Act/Act_orderpage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="39" column="46" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
+        <state relative-caret-position="584">
+          <caret line="255" selection-start-line="255" selection-end-line="255" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#7467#9029#0" expanded="true" />
-            <element signature="e#9028#9029#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3149,6 +3180,16 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="431">
           <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_orderpage.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="74" column="49" selection-start-line="74" selection-start-column="49" selection-end-line="74" selection-end-column="49" />
         </state>
       </provider>
     </entry>
